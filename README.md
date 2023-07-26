@@ -2,6 +2,7 @@
 A music player App which shows all the music stored in local device of the user . After selecting the music the user will be directed to the next screen where the user can play and pause the music ,play the previous music or play the next music 
 This Project is been made using Android Studio the concept used in it are Adapter ,intent ,multi-screen apps ,ListView ,java and Layout design by xml .
 <br>
+Linkdin post url :https://www.linkedin.com/feed/update/urn:li:activity:7089794566379192320/
 1. <b>logo of My App</b>
 <br><br>
 ![2023-06-16](https://github.com/Sparsh225/ISangeet/assets/92641998/f6e1c7a9-a323-4da5-bfaa-04a89d32a15c)
